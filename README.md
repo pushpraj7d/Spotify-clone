@@ -1,6 +1,6 @@
 # Spotify-clone
 
-[Click here to view the project](https://yourusername.github.io/repository-name/)
+[Click here to view the project](https://pushpraj7d.github.io/Spotify-clone/)
 
 ## Overview
 The Spotify Clone is a front-end web project that replicates the UI/UX of Spotify's web player. It includes a responsive layout, a sidebar navigation menu, a music player, and interactive elements similar to the original Spotify interface.
